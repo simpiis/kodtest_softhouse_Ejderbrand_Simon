@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<people>
+    <person>
+        <firstname>Carl Gustaf</firstname>
+        <lastname>Bernadotte</lastname>
+        <phone>
+            <cellphone>0768-101801</cellphone>
+            <landline>08-101801</landline>
+        </phone>
+        <address>
+            <street>Drottningholms slott</street>
+            <city>Stockholm</city>
+            <zipcode>10001</zipcode>
+        </address>
+        <family>
+            <name>Victoria</name>
+            <born>1977</born>
+            <address>
+                <street>Haga Slott</street>
+                <city>Stockholm</city>
+                <zipcode>10002</zipcode>
+            </address>
+        </family>
+        <family>
+            <name>Carl Philip</name>
+            <born>1979</born>
+            <phone>
+                <cellphone>0768-101802</cellphone>
+                <landline>08-101802</landline>
+            </phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Barack</firstname>
+        <lastname>Obama</lastname>
+        <address>
+            <street>1600 Pennsylvania Avenue</street>
+            <city>Washington, D.C</city>
+        </address>
+    </person>
+    <person>
+        <firstname>Adam</firstname>
+        <lastname>Bengtsson</lastname>
+        <phone>
+            <cellphone>0768-100</cellphone>
+            <landline>08-100</landline>
+        </phone>
+        <address>
+            <street>Foo Vägen 3</street>
+            <city>Stockholm</city>
+            <zipcode>10001</zipcode>
+        </address>
+        <family>
+            <name>Anna</name>
+            <born>1978</born>
+            <address>
+                <street>Haga Slott</street>
+                <city>Stockholm</city>
+                <zipcode>10002</zipcode>
+            </address>
+        </family>
+        <family>
+            <name>Helene</name>
+            <born>1979</born>
+            <phone>
+                <cellphone>0768-101802</cellphone>
+                <landline>08-101802</landline>
+            </phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Henrik</firstname>
+        <lastname>Jönsson</lastname>
+        <address>
+            <street>1600 Pennsylvania Avenue</street>
+            <city>Washington, D.C</city>
+        </address>
+    </person>
+    <person>
+        <firstname>Lisa</firstname>
+        <lastname>Andersson</lastname>
+        <phone>
+            <cellphone>0768-101801</cellphone>
+            <landline>08-101801</landline>
+        </phone>
+        <address>
+            <street>Drottningholms slott</street>
+            <city>Stockholm</city>
+            <zipcode>10001</zipcode>
+        </address>
+        <family>
+            <name>Vicky</name>
+            <born>1977</born>
+            <address>
+                <street>Haga Slott</street>
+                <city>Stockholm</city>
+                <zipcode>10002</zipcode>
+            </address>
+        </family>
+        <family>
+            <name>Kalle</name>
+            <born>1979</born>
+            <phone>
+                <cellphone>0768-101802</cellphone>
+                <landline>08-101802</landline>
+            </phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Zacharias</firstname>
+        <lastname>Adamsson</lastname>
+        <address>
+            <street>1600 Pennsylvania Avenue</street>
+            <city>Washington, D.C</city>
+        </address>
+    </person>
+</people>
